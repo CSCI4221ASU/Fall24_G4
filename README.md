@@ -3,7 +3,7 @@
 # Members
    Kennendy Nash
 
-   Dedonovan Otey
+   Jedonovan Otey
 
    Tyler Norris
   
@@ -11,7 +11,7 @@
 
    Kennendy Nash, no submission
 
-   Dedonovan Otey, https://github.com/jedonovankyle/reposityory
+   Jedonovan Otey, https://github.com/jedonovankyle/reposityory
 
    Tyler Norris, https://github.com/tbn2norris/reposityory
 
@@ -19,7 +19,7 @@
 
    Kennendy Nash
 
-   Dedonovan Otey
+   Jedonovan Otey
 
      reposityory
         Ayeee It's Tyler and JeDonovan's group! Commonly known as "Group 4"
